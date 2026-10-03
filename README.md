@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Laravel+Specialist;React+%26+Vue+Developer;Python+%7C+FastAPI+%7C+AI;Cloud+%7C+Docker+%7C+AWS;Building+Scalable+Systems"/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MarceloxAlves&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
 
 </div>
 
@@ -122,9 +122,9 @@ Microservices
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloxAlves&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloxAlves&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -142,7 +142,7 @@ Microservices
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MarceloxAlves&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -152,7 +152,7 @@ Microservices
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloxAlves&theme=tokyo-night"/>
 
 </div>
 
@@ -184,11 +184,11 @@ Microservices
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://linkedin.com/in/marcelo-alves-00786192">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/MarceloxAlves">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
