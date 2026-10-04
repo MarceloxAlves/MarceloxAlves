@@ -192,7 +192,7 @@ Microservices
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:marceloalvessoft@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
